@@ -19,18 +19,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=rohmanalka&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohmanalka&theme=radical" alt="Streak Stats" width="400">
 </div>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohmanalka&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" width="325">
 </p>
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/muhammad-rohman-al-kautsar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
