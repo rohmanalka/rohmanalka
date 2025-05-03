@@ -12,7 +12,7 @@
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rohmanalka&theme=radical&hide_border=true)
 
 ## 📅 Activity Breakdown
-![GitHub Streak](https://streak-stats.demolab.com/?user=rohmanalka&theme=radical&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohmanalka&show_icons=true&theme=radical)
 
 ## 🖥️ Language Usage
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmanalka&layout=compact&theme=radical&hide_border=true)
