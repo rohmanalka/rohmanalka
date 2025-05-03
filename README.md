@@ -12,4 +12,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohmanalka&show_icons=true&theme=radical)  
 
 ## 📫 How to Reach Me
-- LinkedIn: [Muhammad Rohman Al Kautsar](https://linkedin.com/in/muhammadrohmanalkautsar)  
+- LinkedIn: [Muhammad Rohman Al Kautsar](https://linkedin.com/in/muhammad-rohman-al-kautsar)  
