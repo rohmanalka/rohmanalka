@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Alka!
 
 💻 **Student** | 🌍 **Indonesia**  
-📚 Currently learning: **Laravel**  
+📚 Currently learning: **Flutter**  
 
 ## 🛠️ Tech Stack
 
