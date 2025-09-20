@@ -21,11 +21,10 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rohmanalka&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohmanalka&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" width="305">
 </div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohmanalka&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" width="325">
-</p>
+
 
 ## 🌐 Connect With Me
 
